@@ -1,1 +1,1 @@
-alert(77);
+alert("barev" + "dzez");
