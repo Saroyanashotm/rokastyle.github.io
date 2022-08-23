@@ -1,1 +1,1 @@
-document.body.innerHTML = "hello from JS";
+alert(77);
